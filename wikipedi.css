@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    height:450px;
+    width:100%;
+    background-color: springgreen;
+    margin-top: 15px;
+}
+.para
+{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+p{
+    margin-right: 120px;
+}
+img{
+    height:300px;
+    margin-right: 90px;
+    border:2px solid black;
+}
+.bio{
+    margin-top: 20px;
+    margin-left: 15px;
+    border-bottom: 2px solid black;
+}
+h2{
+    margin-bottom: 15px;
+}
+#bi{
+    margin-left: 15px;
+    margin-right: 240px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+.meena{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
